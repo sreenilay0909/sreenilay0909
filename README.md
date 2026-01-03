@@ -2,28 +2,28 @@
 
 ### AI Developer | Computer Vision | Multimodal & Intelligent Systems
 
-- 🔭 I'm currently working on **Vision-Language Models (VLMs), image super-resolution research (RealSR-style pipelines),
+- 🔭 I'm currently working on Vision-Language Models (VLMs), image super-resolution research (RealSR-style pipelines),
 and AI-based voice agents, focusing on model integration and practical deployment.
-**
 
-- 🌱 I'm currently learning **Deep learning model optimization, multimodal AI systems,
+
+- 🌱 I'm currently learning Deep learning model optimization, multimodal AI systems,
 and real-world deployment of AI models with limited hardware resources.
-**
+  
 
-- 👯 I'm looking to collaborate on **AI/ML research projects involving computer vision, multimodal models,
+- 👯 I'm looking to collaborate on AI/ML research projects involving computer vision, multimodal models,
 super-resolution, or intelligent agents with real-world applications.
-**
+  
 
-- 🤝 I'm looking for help with **Improving model performance, research-level implementation,
+- 🤝 I'm looking for help with Improving model performance, research-level implementation,
 and optimizing AI models for systems without high-end GPUs.
-**
+  
 
 - 💬 Ask me about **React, Node.js, and web development**
 
 - 📫 How to reach me **sreenilay0909@gmail.com**
 
 - ⚡ Fun fact **I enjoy implementing research papers into working AI systems.
-**
+  
 
 - 👨‍💻 All of my projects are available at **[https://sreenilay.netlify.app/](https://sreenilay.netlify.app/)**
 
