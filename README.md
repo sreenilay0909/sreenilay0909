@@ -36,7 +36,7 @@ and optimizing AI models for systems without high-end GPUs.
 <a href="https://medium.com/sreenilay0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sreenilay0909" height="30" width="40" /></a>
 
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/sreenilay0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sreenilay0909" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/sreenilay0909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sreenilay0909/" height="30" width="40" /></a>
+<a href="[https://leetcode.com/https://leetcode.com/u/sreenilay0909/](https://leetcode.com/u/sreenilay0909/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sreenilay0909/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/sreenilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/sreenilay" height="30" width="40" /></a>
 </p>
 
